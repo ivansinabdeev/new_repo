@@ -1,0 +1,21 @@
+.parent {
+  display: flex;
+  /* border: 1px solid grey; */
+  outline: 1px solid red;
+}
+.child {
+  background-color: grey;
+  /* margin: 20px; */
+  min-width: 380px;
+  max-width: 225px;
+  height: 200px;
+  width: 250px;
+  flex-basis: 350px;
+}
+
+/* .parent {
+  display: block;
+}
+.child {
+  margin: 20px;
+} */
